@@ -18,6 +18,7 @@ Below, you’ll find a detailed description of each project, along with code sni
 8. [ML Monitoring Dashboard with Evidently and Streamlit](https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/8.Stream_evidently/Streamlit_evidently)
 9. [Streamlit App on AWS EC2](https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/10.Docker_EC2)
 10. [Streamlit Using Evidently](https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/9.Minikube-and-Kucetl/Minikube-and-Kucetl)
+11.  [Titanic_Prediction](https://github.com/TanishqGupta1234/Titanic_Prediction/tree/main/Titanic)
 
 ---
 
