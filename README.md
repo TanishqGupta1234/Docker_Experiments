@@ -19,6 +19,7 @@ Below, you’ll find a detailed description of each project, along with code sni
 9. [Streamlit App on AWS EC2](https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/10.Docker_EC2)
 10. [Streamlit Using Evidently](https://github.com/TanishqGupta1234/Docker_Experimemts/tree/main/9.Minikube-and-Kucetl/Minikube-and-Kucetl)
 11.  [Titanic_Prediction](https://github.com/TanishqGupta1234/Titanic_Prediction/tree/main/Titanic)
+12.  [Docker Bakrey](https://github.com/TanishqGupta1234/Docker_Experiments/tree/main/11.Docker_Backery_works)
 
 ---
 
@@ -238,3 +239,52 @@ This project demonstrates how to integrate **Streamlit** with **Evidently**, an 
 - Interactive visualization of ML metrics for stakeholders.
 
 🚀 **Enhance your ML model monitoring with Streamlit and Evidently!**
+
+## 11. Titnanic Prediction 
+
+# Titanic Survival Prediction 🚢
+
+A simple Machine Learning project predicting Titanic passenger survival using Logistic Regression.
+
+📂 Files
+
+Titanic.ipynb — Data cleaning, EDA, model building.
+
+titanic.csv — Dataset.
+
+## 12. Docker Bakrey
+
+
+# Docker Bakery Works 🍞
+
+Simple Docker-based microservices project simulating a bakery.
+
+## 📂 Structure
+
+Dockerfile — App container.
+
+docker-compose.yml — Multi-container setup.
+
+backend/ — Handles orders.
+
+frontend/ — User interface.
+
+## 🛠️ Concepts
+
+Docker Compose orchestration
+
+Container networking
+
+## 🔥 Run It
+
+```bash
+git clone <repo-url>
+cd project-folder
+docker-compose up --build
+```
+
+
+
+
+
+
